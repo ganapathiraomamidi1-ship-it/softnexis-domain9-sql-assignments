@@ -15,5 +15,5 @@ The scripts target MySQL 8.0+ and the Employees Sample Database (`employees`, `d
 
 Task 4 confines modifications to sandbox tables. Review the setup and run it in a practice schema; do not point its modification examples at production tables.
 
-The SQL is prepared but has not been run against a connected MySQL database. The Task 2 attachment is now readable in the SoftNexis dashboard; these scripts reflect all four task sheets.
+The SQL is prepared but has not been run against a connected MySQL database. The Task 2 attachment is now readable in the SoftNexis dashboard these scripts reflect all four task sheets.
 
